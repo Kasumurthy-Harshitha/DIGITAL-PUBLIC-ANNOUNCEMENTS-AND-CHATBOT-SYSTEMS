@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="cardPoint">
+        <item name="cornerSizeBottomRight">50sp</item>
+        <item name="cornerSizeBottomLeft">50sp</item>
+    </style>
+    <style name="chatRight">
+        <item name="cornerSizeTopRight">10sp</item>
+        <item name="cornerSizeTopLeft">10sp</item>
+        <item name="cornerSizeBottomLeft">10sp</item>
+    </style>
+    <style name="chatLeft">
+        <item name="cornerSizeTopRight">10sp</item>
+        <item name="cornerSizeTopLeft">10sp</item>
+        <item name="cornerSizeBottomRight">10sp</item>
+
+    </style>
+</resources>
